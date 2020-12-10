@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/GlatiatorzyJS-Compound-Modal/static/css/main.66d88f5b.chunk.css",
+    "main.js": "/GlatiatorzyJS-Compound-Modal/static/js/main.d33ace69.chunk.js",
+    "main.js.map": "/GlatiatorzyJS-Compound-Modal/static/js/main.d33ace69.chunk.js.map",
+    "runtime-main.js": "/GlatiatorzyJS-Compound-Modal/static/js/runtime-main.bb4a6cdf.js",
+    "runtime-main.js.map": "/GlatiatorzyJS-Compound-Modal/static/js/runtime-main.bb4a6cdf.js.map",
+    "static/css/2.ae304061.chunk.css": "/GlatiatorzyJS-Compound-Modal/static/css/2.ae304061.chunk.css",
+    "static/js/2.22e483df.chunk.js": "/GlatiatorzyJS-Compound-Modal/static/js/2.22e483df.chunk.js",
+    "static/js/2.22e483df.chunk.js.map": "/GlatiatorzyJS-Compound-Modal/static/js/2.22e483df.chunk.js.map",
+    "static/js/3.748c7e38.chunk.js": "/GlatiatorzyJS-Compound-Modal/static/js/3.748c7e38.chunk.js",
+    "static/js/3.748c7e38.chunk.js.map": "/GlatiatorzyJS-Compound-Modal/static/js/3.748c7e38.chunk.js.map",
+    "index.html": "/GlatiatorzyJS-Compound-Modal/index.html",
+    "static/css/2.ae304061.chunk.css.map": "/GlatiatorzyJS-Compound-Modal/static/css/2.ae304061.chunk.css.map",
+    "static/css/main.66d88f5b.chunk.css.map": "/GlatiatorzyJS-Compound-Modal/static/css/main.66d88f5b.chunk.css.map",
+    "static/js/2.22e483df.chunk.js.LICENSE.txt": "/GlatiatorzyJS-Compound-Modal/static/js/2.22e483df.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/GlatiatorzyJS-Compound-Modal/static/media/roboto-latin-900italic.cb5ad999.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bb4a6cdf.js",
+    "static/css/2.ae304061.chunk.css",
+    "static/js/2.22e483df.chunk.js",
+    "static/css/main.66d88f5b.chunk.css",
+    "static/js/main.d33ace69.chunk.js"
+  ]
+}
