@@ -28,7 +28,7 @@
 
 ### takie wywołanie powinno działać
 
-return (
+```return (
     <Modal>
         <Modal.Header title={'Tytuł modala'}/>
         <Modal.Content>
