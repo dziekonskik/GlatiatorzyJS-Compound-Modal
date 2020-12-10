@@ -2,7 +2,8 @@ import React, { Component } from 'react';
 
 export class Content extends Component {
   render() {
-    return <div className="Content"></div>;
+    const { children } = this.props;
+    return <div className="Content">{children}</div>;
   }
 }
 
