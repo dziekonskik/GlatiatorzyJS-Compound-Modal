@@ -4,7 +4,6 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      return (
       <Modal>
         <Modal.Header title={'Tytuł modala'} />
         <Modal.Content>
@@ -12,7 +11,6 @@ function App() {
         </Modal.Content>
         <Modal.Footer callToActionLabel={'Udało się'} />
       </Modal>
-      );
     </div>
   );
 }
