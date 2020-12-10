@@ -15,11 +15,16 @@ export class Modal extends Component {
   static Footer = Footer;
 
   handleClickOutside = (event) => {
-    console.log(this.modal, event.target);
+    console.log(event.target);
+    if (event.target.className === 'Modal-outer') this.props.toggle();
   };
 
   componentDidMount() {
     window.addEventListener('click', this.handleClickOutside);
+  }
+
+  componentWillUnmount() {
+    window.removeEventListener('click', this.handleClickOutside);
   }
 
   render() {
@@ -29,9 +34,11 @@ export class Modal extends Component {
     );
 
     return (
-      <div ref={this.modal} className="Modal">
-        {children}
-      </div>
+      <aside className="Modal-outer">
+        <div ref={this.modal} className="Modal-inner">
+          {children}
+        </div>
+      </aside>
     );
   }
 }
